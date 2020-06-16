@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="DottedSeekBar">
+        <attr name="dots_positions" format="reference" />
+        <attr name="dots_drawable" format="reference" />
+    </declare-styleable>
+    <declare-styleable name="GnssAccuracyView">
+        <!--        <attr name="exampleString" format="string" />-->
+        <!--        <attr name="exampleDimension" format="dimension" />-->
+        <!--        <attr name="exampleColor" format="color" />-->
+        <!--        <attr name="exampleDrawable" format="color|reference" />-->
+    </declare-styleable>
+</resources>

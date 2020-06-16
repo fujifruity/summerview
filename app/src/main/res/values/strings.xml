@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Summerview</string>
+    <string name="start">START</string>
+    <string name="record">RECORD</string>
+    <string name="stop">STOP</string>
+    <string name="rec">REC</string>
+    <string name="play">Play</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_settings">Settings</string>
+
+    <string name="warning">Warning!</string>
+
+    <string name="pref_resolution">pref_resolution</string>
+    <string name="pref_fps">pref_fps</string>
+    <string name="pref_file_saving_location">pref_file_saving_location</string>
+
+</resources>

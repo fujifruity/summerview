@@ -1,0 +1,28 @@
+<resources>
+    <!-- Reply Preference -->
+
+    <string-array name="fps_entries">
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="fps_values">
+        <item>20</item>
+        <item>25</item>
+        <item>30</item>
+    </string-array>
+
+    <string-array name="resolution_entries">
+        <item>480x270</item>
+        <item>640x360</item>
+        <item>960x540</item>
+        <item>1280x720</item>
+    </string-array>
+    <string-array name="resolution_values">
+        <item>480x270</item>
+        <item>640x360</item>
+        <item>960x540</item>
+        <item>1280x720</item>
+    </string-array>
+
+</resources>

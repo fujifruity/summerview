@@ -1,0 +1,30 @@
+<PreferenceScreen xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <PreferenceCategory
+        app:key="video_capture"
+        app:title="Video capture">
+
+        <!--        <ListPreference-->
+        <!--            app:key="@string/pref_fps"-->
+        <!--            app:defaultValue="25"-->
+        <!--            app:entries="@array/fps_entries"-->
+        <!--            app:entryValues="@array/fps_values"-->
+        <!--            app:title="Frames per second"-->
+        <!--            app:useSimpleSummaryProvider="true" />-->
+
+        <ListPreference
+            app:key="@string/pref_resolution"
+            app:title="Resolution"
+            app:entries="@array/resolution_entries"
+            app:entryValues="@array/resolution_values"
+            app:defaultValue="640x360"
+            app:useSimpleSummaryProvider="true" />
+
+        <ListPreference
+            app:key="@string/pref_file_saving_location"
+            app:title="Save recordings to"
+            app:useSimpleSummaryProvider="true" />
+
+    </PreferenceCategory>
+
+</PreferenceScreen>
