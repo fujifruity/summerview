@@ -1,2 +1,4 @@
 include:
   - index.md
+
+theme: jekyll-theme-cayman
