@@ -8,7 +8,7 @@ We do not collect any kind of personal data. Anyway, Summerview relies on those 
 - to create video recordings
 
 **Location**
-- to integrate them into recording file
+- to integrate geolocations into recording file
 - to name a recording file
 - to find a recording to play
 - to repeatedly adjust the state of playback
